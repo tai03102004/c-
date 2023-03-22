@@ -1,0 +1,5 @@
+1;Anh Vu;29;9.7
+2;Dinh Tai;18;8
+3;Le Duong;13;8
+4;Ha My;12;5
+5;Hy Lap;10;6
